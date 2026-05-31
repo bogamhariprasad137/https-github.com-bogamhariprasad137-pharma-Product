@@ -1,0 +1,6 @@
+{
+  "name": "PharmaAI Product Explainer",
+  "description": "An AI-powered medicine explanation platform for patients and pharmacy staff to understand medical information easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

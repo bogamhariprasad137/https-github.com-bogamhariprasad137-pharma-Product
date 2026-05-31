@@ -1,0 +1,173 @@
+[
+  {
+    "id": "paracetamol_500",
+    "name": "Paracetamol 500mg",
+    "category": "Analgesic & Antipyretic (Pain Reliever & Fever Reducer)",
+    "uses": [
+      "Relief of mild to moderate pain (headache, muscle ache, backache, toothache)",
+      "Reduction of fever associated with common cold, flu, and infections",
+      "Management of joint pain and arthritis discomfort"
+    ],
+    "sideEffects": [
+      "Nausea or stomach upset (uncommon)",
+      "Allergic skin rash or itching (rare)",
+      "Liver toxicity (only with chronic overuse or severe overdose)"
+    ],
+    "precautions": [
+      "Do not exceed the maximum daily dose (usually 4g or eight 500mg tablets in 24 hours).",
+      "Avoid concurrent use with other paracetamol-containing medications (cough & cold remedies).",
+      "Consult a doctor if you have severe kidney or liver impairment or drink alcohol heavily daily."
+    ],
+    "storage": "Store below 30°C (86°F) in a dry place. Keep protected from direct sunlight, dampness, and keep out of reach of children."
+  },
+  {
+    "id": "cetirizine_10",
+    "name": "Cetirizine 10mg",
+    "category": "Antihistamine (Anti-Allergy)",
+    "uses": [
+      "Treatment of seasonal allergic rhinitis (sneezing, runny nose, itchy or watery eyes)",
+      "Relief of hives (urticaria) and associated skin itching",
+      "Management of allergic dermatoses and insect bite reactions"
+    ],
+    "sideEffects": [
+      "Mild drowsiness, somnolence, or sleepiness",
+      "Dry mouth, throat irritation, or mild headache",
+      "Fatigue, dizziness, or stomach pain in sensitive individuals"
+    ],
+    "precautions": [
+      "May cause drowsiness; use caution when driving, operating heavy machinery, or performing critical tasks.",
+      "Avoid consuming alcohol or other central nervous system depressants while taking this medication.",
+      "Safety in children below 2 years and pregnant/breastfeeding individuals must be verified by a medical doctor."
+    ],
+    "storage": "Store in a cool, dry place below 25°C (77°F). Protect from high moisture, heat, and direct light."
+  },
+  {
+    "id": "amoxicillin_500",
+    "name": "Amoxicillin 500mg",
+    "category": "Penicillin Antibiotic (Antibacterial)",
+    "uses": [
+      "Treatment of respiratory tract infections (bronchitis, pneumonia, tonsillitis, sinusitis)",
+      "Relief of middle ear infections (otitis media) and dental abscesses",
+      "Eradication of urinary tract infections (UTIs) of bacterial origin"
+    ],
+    "sideEffects": [
+      "Mild diarrhea or loose stools",
+      "Nausea, vomiting, or stomach discomfort",
+      "Oral thrush or vaginal yeast infection due to gut flora imbalance",
+      "Hypersensitivity skin rash (allergic response)"
+    ],
+    "precautions": [
+      "Strictly contraindicated in patients with a known history of severe penicillin or cephalosporin allergy.",
+      "Complete the entire prescribed bacterial course even if symptoms disappear to prevent antibiotic resistance.",
+      "Take with or immediately after food to reduce stomach upset."
+    ],
+    "storage": "Store dry, below 25°C (77°F). If reconstituted as liquid suspension, keep refrigerated and discard unused portions after 14 days."
+  },
+  {
+    "id": "azithromycin_500",
+    "name": "Azithromycin 500mg",
+    "category": "Macrolide Antibiotic (Antibacterial)",
+    "uses": [
+      "Eradication of atypical pneumonia, bronchitis, and throat infections (strep throat)",
+      "Treatment of sexually transmitted bacterial infections (chlamydia)",
+      "Management of certain skin, soft tissue, and sinus infections"
+    ],
+    "sideEffects": [
+      "Stomach cramps, abdominal pain, flatulence, or mild diarrhea",
+      "Nausea, loss of appetite, or transient hearing alterations (rarely with high doses)",
+      "Mild headache or dizziness"
+    ],
+    "precautions": [
+      "Do not take simultaneously with antacids containing aluminum or magnesium; separate them by at least 2 hours.",
+      "Inform your doctor if you have a history of heart rhythm issues (QT prolongation) or liver damage.",
+      "Ensure you complete the exact 3-day or 5-day cycle as instructed by your healthcare professional."
+    ],
+    "storage": "Store below 30°C (86°F) in a moisture-protected container. Keep away from excessive humidity."
+  },
+  {
+    "id": "pantoprazole_40",
+    "name": "Pantoprazole 40mg",
+    "category": "Proton Pump Inhibitor (Antacid & Gastroprotective)",
+    "uses": [
+      "Treatment of Gastroesophageal Reflux Disease (GERD, acid reflux, chronic heartburn)",
+      "Healing and prevention of stomach and duodenal ulcers",
+      "Management of pathological hypersecretory conditions (Zollinger-Ellison syndrome)",
+      "Prevention of stomach irritation from long-term NSAID pain reliever therapy"
+    ],
+    "sideEffects": [
+      "Mild headache, dizziness, or lightheadedness",
+      "Nausea, bloating, flatulence, or loose stools",
+      "Nutrient absorption changes (vitamin B12, magnesium) with prolonged multi-year usage"
+    ],
+    "precautions": [
+      "Best taken 30 to 60 minutes before breakfast (empty stomach) for optimal acid-blocking action.",
+      "Long-term daily use (over a year) may increase the risk of bone fractures; consult a doctor regarding calcium supplements.",
+      "Notify your doctor if you experience unexplained weight loss, recurring vomiting, or difficulty swallowing."
+    ],
+    "storage": "Store in dry blister sheets below 25°C (77°F). Protect comprehensively from moisture and humidity."
+  },
+  {
+    "id": "metformin_500",
+    "name": "Metformin 500mg",
+    "category": "Biguanide Oral Antidiabetic",
+    "uses": [
+      "Primary treatment for Type 2 Diabetes Mellitus to lower blood glucose levels",
+      "Off-label management of Polycystic Ovary Syndrome (PCOS) to improve insulin sensitivity",
+      "Weight management assistance when combined with dedicated diet and exercise regimens under doctor supervision"
+    ],
+    "sideEffects": [
+      "Initial gastrointestinal distress (metallic taste in the mouth, nausea, vomiting, diarrhea)",
+      "Decreased absorption of Vitamin B12 with long term daily therapy",
+      "Lactic Acidosis (extremely rare but severe; marked by deep muscle breathing, extreme fatigue, cold limbs)"
+    ],
+    "precautions": [
+      "Must be taken with or immediately after meals to dramatically minimize stomach upset during initial stages.",
+      "Monitor kidney function (eGFR) and liver function tests regularly as prescribed by your doctor.",
+      "Strictly avoid excessive alcohol consumption white taking Metformin due to elevated lactic acidosis risk.",
+      "Avoid during severe dehydration, surgery, or major radiological imaging with contrast dyes."
+    ],
+    "storage": "Store inside tightly closed original containers in dry environments below 30°C (86°F)."
+  },
+  {
+    "id": "omeprazole_20",
+    "name": "Omeprazole 20mg",
+    "category": "Proton Pump Inhibitor (Antacid & Gastroprotective)",
+    "uses": [
+      "Fast relief of acid indigestion, heartburn, and sour stomach",
+      "Healing of esophageal erosion caused by acid reflux",
+      "Active eradication therapy for H. pylori bacterial infections when combined with antibiotics"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Mild abdominal pain, nausea, loose stools or occasional constipation",
+      "Slight skin itch or dizziness"
+    ],
+    "precautions": [
+      "Take first thing in the morning with a full glass of water, minimum 30 minutes before any food.",
+      "Do not crush, break, or chew the delayed-release capsules; swallow them whole.",
+      "Long-term use may mask symptoms of other gastric conditions; seek medical review if indigestion persists beyond 2 weeks."
+    ],
+    "storage": "Store tightly capped inside a light-resistant bottle below 25°C (77°F). Protect from excessive moisture."
+  },
+  {
+    "id": "ibuprofen_400",
+    "name": "Ibuprofen 400mg",
+    "category": "Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+    "uses": [
+      "Reduction of painful swelling, joint stiffness, and active inflammation (rheumatoid arthritis, osteoarthritis)",
+      "Effective relief of severe dental pain, painful menstrual cramps, and physical injury pain",
+      "Quick relief of muscle aches, back pain, and fever"
+    ],
+    "sideEffects": [
+      "Heartburn, indigestion, abdominal pain, or nausea",
+      "Increased blood pressure or minor water retention (mild swelling of ankles)",
+      "Stomach ulceration or gastrointestinal bleeding (especially with long-term, high-dose unbuffered use)"
+    ],
+    "precautions": [
+      "Always take this medication with food or milk to safeguard the stomach lining against direct irritation.",
+      "Consult your physician if you have active gastric ulcers, high blood pressure, asthma, kidney, or heart issues.",
+      "Avoid concurrent usage of other NSAIDs (e.g. Aspirin, Naproxen) or blood thinners (e.g. Warfarin)."
+    ],
+    "storage": "Store away from intense heat, damp air, and direct sunlight. Keep below 25°C (77°F)."
+  }
+]
